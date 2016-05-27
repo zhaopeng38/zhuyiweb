@@ -1,0 +1,162 @@
+.bg_box {
+	width: 100%;
+	text-align: center;
+	position: relative;
+	padding-bottom: 4.6rem;
+	background-color: #e6e6e6;
+	font-size: 1.4rem;
+	min-height: 100%;
+}
+
+.bg_top {
+	width: 100%;
+	position: fixed;
+	height: 4.2rem;
+	background-color: #161618;
+	max-width: 640px;
+	line-height: 4.2rem;
+	color: #ffffff;
+	z-index: 10;
+}
+
+.bg_return {
+	float: left;
+	padding-left: 1.3rem;
+}
+
+.bg_return img {
+	width: 1.6rem;
+	position: relative;
+	top: 0.3rem;
+}
+
+.bg_top a {
+	color: #ffffff;
+	color: #cecccc;
+}
+
+.bg_center {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+
+.bg_center span {
+	padding: .5rem 2.5rem .3rem 2.5rem;
+	border: .1rem solid #000;
+	background-color: #191919;
+}
+
+.bg_top_right {
+	float: right;
+	margin-right: 1.7rem;
+	position: relative;
+	top: 0.3rem;
+}
+
+.bg_top_right img {
+	width: 1.6rem;
+}
+
+.bg_boxaa {
+	position: relative;
+	text-align: left;
+	width: auto;
+	top: 1.6rem;
+	left: 0rem;
+	right: 0rem;
+	bottom: 1rem;
+	padding: 0 .7rem;
+	z-index: 9;
+}
+
+.bg_boxaa .box_one {
+	background-color: #FFFFFF;
+	margin-bottom: 1rem;
+	border: .1rem solid #cfcfcf;
+	border-radius: .6rem;
+	font-size: 1.6rem;
+	padding: 1rem;
+}
+
+.color_red {
+	color: #de3135;
+	font-size: 1.4rem;
+}
+
+.box_one .one_time {
+	color: #CECCCC;
+	font-size: 1.2rem;
+	margin: .6rem 0 1.1rem 0;
+}
+
+.box_one .one_img img {
+	width: 100%;
+}
+
+.one_bot_text {
+	color: #CECCCC;
+	font-size: 1.4rem;
+	margin: .8rem 0 1.1rem 0;
+}
+
+.one_bot_more {
+	color: #666666;
+	font-size: 1.4rem;
+	border-top: .1rem solid #f2f2f2;
+	padding: .8rem 0 0 .4rem;
+}
+
+.one_bot_more i {
+	float: right;
+	color: #797979;
+}
+
+.one_bot_more a {
+	display: block;
+}
+
+@media only screen and (min-width: 200px) {
+	html {
+		font-size: 42%!important;
+	}
+}
+
+@media only screen and (min-width: 300px) {
+	html {
+		font-size: 52%!important;
+	}
+}
+
+@media only screen and (min-width: 327px) {
+	html {
+		font-size: 55%!important;
+	}
+}
+
+@media only screen and (min-width: 377px) {
+	html {
+		font-size: 62.5%!important;
+	}
+}
+
+@media only screen and (min-width: 481px) {
+	html {
+		font-size: 75%!important;
+	}
+}
+
+@media only screen and (min-width: 561px) {
+	html {
+		font-size: 85%!important;
+	}
+}
+
+@media only screen and (min-width: 641px) {
+	html {
+		font-size: 95%!important;
+	}
+}
